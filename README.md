@@ -4,10 +4,7 @@
   
 
 ### <div align="center">
-I am a highly-skilled full-stack developer with over 6 years of experience in React development.
-I am proficient in translating designs into high-quality code and implementing highlyresponsive user interface components with React concepts.
-My primary focus is on Web and Blockchain development. 
-I am keen on writing clean and reusable code using best practices
+Professional software engineer and full-stack web developer specializing in the Ruby on Rails framework. As a highly-skilled and motivated senior full-stack engineer specializing with over 6 years of experience in web development. Worked with tech companies for over 6 years, helping to build technology-based businesses from the ground up.
 </div>  
   
 
