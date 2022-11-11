@@ -92,9 +92,9 @@ Professional software engineer and full-stack web developer specializing in the 
 <hr>
 <!--
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/anirudhjak06/anirudhjak06/blob/output/github-contribution-grid-snake.gif) -->
+![snake gif](https://github.com/anirudhjak06/anirudhjak06/blob/output/github-contribution-grid-snake.gif)
 
 <hr>
-
+ -->
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
