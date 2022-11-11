@@ -86,11 +86,11 @@ Professional software engineer and full-stack web developer specializing in the 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjak06&layout=compact&theme=gotham" alt="Anirudh" /></p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+<!--
 
 
 <hr>
-<!--
+
 ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/anirudhjak06/anirudhjak06/blob/output/github-contribution-grid-snake.gif)
 
