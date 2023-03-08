@@ -1,5 +1,5 @@
 
-## 🛠️ My skill :
+## 🛠️ My skill sets:
 
 ### Frontend  
 <div align="left">
