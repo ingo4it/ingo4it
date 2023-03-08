@@ -51,22 +51,3 @@
 
 
 <hr>
-<h2 align="left">Github Statistics</h2>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=anirudhjak06&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjak06&layout=compact&theme=gotham" alt="languages" height="165">
-</p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjak06&layout=compact&theme=gotham" alt="Anirudh" /></p>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<!--
-
-
-<hr>
-
-## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/anirudhjak06/anirudhjak06/blob/output/github-contribution-grid-snake.gif)
-
-<hr>
- -->
-<img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
